@@ -32,8 +32,7 @@ DEBUG = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'bbchanna@gmail.com'
-EMAIL_HOST_PASSWORD = '**********'
-// Enter the password of gmail here. Kept hidden due to security reasons!
+EMAIL_HOST_PASSWORD = '9906567246'
 EMAIL_USE_TLS = True
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_USE_SSL = False
